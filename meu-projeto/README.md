@@ -1,6 +1,5 @@
 # Meu Projeto Git
-Projeto simples para demonstrar o uso básico
-do Git.
+Atividade para praticar versionamento com Git.
 
 ## Arquivos
 - README.md
